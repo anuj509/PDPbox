@@ -18,7 +18,6 @@ setup(name='PDPbox',
           'scipy',
           'joblib',
           'psutil',
-          'matplotlib==3.1.1',
           'sklearn'
       ],
       zip_safe=False)
